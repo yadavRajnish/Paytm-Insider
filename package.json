@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "nodemon --exec babel-node index.js"
+    "server": "nodemon --exec babel-node index.js",
+    "builde" : "npm i"
   },
   "author": "Rajnish",
   "license": "ISC",
